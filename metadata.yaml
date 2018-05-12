@@ -1,0 +1,28 @@
+_repo: Pemrose-Lorry-Camp-Fire-Girl_31748
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hornibrook, Isabel
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '5299'
+    url: http://www.gutenberg.org/2009/agents/5299
+description: ''
+gutenberg_issued: '2010-03-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31748'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aeronautics -- Juvenile fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: Pemrose Lorry, Camp Fire Girl
+url: http://www.gutenberg.org/ebooks/31748
